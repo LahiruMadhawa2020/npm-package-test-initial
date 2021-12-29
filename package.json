@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-test-initial",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LahiruMadhawa2020/npm-package-test-initial.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "lahirumadhawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LahiruMadhawa2020/npm-package-test-initial/issues"
+  },
+  "homepage": "https://github.com/LahiruMadhawa2020/npm-package-test-initial#readme"
+}

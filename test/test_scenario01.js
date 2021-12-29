@@ -1,0 +1,1 @@
+require('npm-package-test-initial');
